@@ -14,12 +14,16 @@ Discount Impact: Examines the impact of discounts on gross sales and profits.
 Time Series Analysis: Tracks sales performance over time, allowing for trend analysis and forecasting.
 
 # Dashboard Usage:
-# Segment Filter: Select a specific segment (e.g., Government, Midmarket) to analyze sales performance within that segment.
+**Segment Filter**: Select a specific segment (e.g., Government, Midmarket) to analyze sales performance within that segment.
+
 **Country Filter:** Filter data by country to compare sales performance across different countries.
 **Product Filter:** Choose a product (e.g., Carretera, Montana) to analyze its sales performance.
-**Date Range Selector:** Customize the date range to view sales data for specific time periods.
-**Key Metrics Overview:** Provides a summary of key metrics including units sold, gross sales, discounts, COGS, and profit.
-Visualization: Utilizes interactive charts and graphs to visualize sales performance trends and patterns.
-Technologies Used:
+**Date Range Selector:**  Customize the date range to view sales data for specific time periods.
+**Key Metrics Overview:**  Provides a summary of key metrics including units sold, gross sales, discounts, COGS, and profit.
+
+**Visualization:** Utilizes interactive charts and graphs to visualize sales performance trends and patterns.
+
+**Technologies Used:**
+
 GitHub: The dashboard is hosted on GitHub, providing version control and collaboration capabilities.
 Data Analysis Tools: Utilizes data analysis tool Excel for data processing and analysis. For Visualisation used power bi
